@@ -12,11 +12,7 @@ We collect the first and largest 3-view dual-pixel video dataset, dpMV, to valid
 Finally, we demonstrate an unconventional use case unlocked by dpMV and implicit dark knowledge distillation from an ensemble of teachers for Light Field (LF) video reconstruction.
 
 Our LF video reconstruction method is the fastest and most temporally consistent to
-date. It remains competitive in reconstruction fidelity while offering many other essential properties like high parameter efficiency, implicit disocclusion handling, zero-shot cross-dataset transfer, geometrically consistent inference on higher spatial-angular resolutions, and adaptive baseline control. All source code will be made available at the anonymous repository https://github.com/ANonyMouxe.
-
-
-Find our dataset [here](./dataset.markdown)
-
+date. It remains competitive in reconstruction fidelity while offering many other essential properties like high parameter efficiency, implicit disocclusion handling, zero-shot cross-dataset transfer, geometrically consistent inference on higher spatial-angular resolutions, and adaptive baseline control.
 
 The novel contributions of our paper are as follows:
 1. We propose an algorithm for the distillation of dark knowledge from the stereo dataset as a supervisor. This enables our network to implicitly extract depth information from the dual pixel data and utilize it to create better reconstructions.
