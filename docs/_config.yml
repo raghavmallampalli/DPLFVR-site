@@ -22,7 +22,6 @@ title: Stereo-Knowledge Distillation from dpMV to Dual Pixels for Light Field Vi
 email: raghavmallampalli1234@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Code for the page for the paper “Stereo-Knowledge Distillation from dpMV to Dual Pixels for Light Field Video Reconstruction”, slated to be published in ICCP ‘24
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  raghavmallampalli
 
