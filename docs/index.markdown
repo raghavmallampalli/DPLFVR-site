@@ -12,8 +12,10 @@ This work hypothesizes that distilling high-precision dark stereo knowledge, imp
 enables faithful reconstructions. This dark knowledge distillation should also alleviate stereo-synchronization setup and calibration costs while dramatically increasing parameter and inference time efficiency.
 
 We collect the first and largest 3-view dual-pixel video dataset, dpMV, to validate our explicit dark knowledge distillation hypothesis. We show that these methods outperform purely monocular solutions, especially in challenging foreground-background separation regions using faithful guidance from dual pixels.
-Finally, we demonstrate an unconventional use case unlocked by dpMV and implicit dark knowledge distillation from an ensemble of teachers for Light Field (LF) video reconstruction.
 ![LFVR algorithm](./images/lf_algorithm.png)
+
+Finally, we demonstrate an unconventional use case unlocked by dpMV and implicit dark knowledge distillation from an ensemble of teachers for Light Field (LF) video reconstruction.
+![SAI disparity](./images/SAI_demonstration.gif)
 
 Our LF video reconstruction method is the fastest and most temporally consistent to
 date. It remains competitive in reconstruction fidelity while offering many other essential properties like high parameter efficiency, implicit disocclusion handling, zero-shot cross-dataset transfer, geometrically consistent inference on higher spatial-angular resolutions, and adaptive baseline control.

@@ -13,8 +13,6 @@ It consists of 3 views, each containing 5 channels of data (R, G, B, dual pixel 
 
 In effect it is a dataset with 3 synchronized videos per capture with a slight difference in viewpoint.
 
-<video controls autoplay muted playsinline>
-    <source src="./images/cat_disp.mp4" type="video/mp4">
-</video>
+![Tingu relaxes](./images/tingu_disp.gif)
 
 [Back to homepage](./index.markdown)
