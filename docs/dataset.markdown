@@ -4,9 +4,9 @@ title: Dataset
 permalink: /dataset/
 ---
 
-The dataset has been opensourced [here](kaggle.com). 
+The dataset has been opensourced here. 
 <!-- TODO
-insert link for dataset, figure 1 and 2 from paper
+insert link for dataset
 -->
 It consists of 3 views, each containing 5 channels of data (R, G, B, dual pixel right and dual pixel left)
 ![Capture demonstration](./images/capture_demonstration.png){:style="display:block; margin-left:auto; margin-right:auto"}
