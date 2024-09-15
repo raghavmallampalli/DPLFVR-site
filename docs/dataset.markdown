@@ -12,7 +12,8 @@ It consists of 3 views, each containing 5 channels of data (R, G, B, dual pixel 
 ![Capture demonstration](./images/capture_demonstration.png)
 
 In effect it is a dataset with 3 synchronized videos per capture with a slight difference in viewpoint.
-<video muted autoplay controls>
+
+<video muted loop>
     <source src="./images/cat_disp.mp4" type="video/mp4">
 </video>
 
