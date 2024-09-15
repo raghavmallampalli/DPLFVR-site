@@ -24,9 +24,8 @@ We collect the first and largest 3-view dual-pixel video dataset, dpMV, to valid
 Finally, we demonstrate an unconventional use case unlocked by dpMV and implicit dark knowledge distillation from an ensemble of teachers for Light Field (LF) video reconstruction.
 
 
-|![SAI disparity](./images/SAI_demonstration.gif){:style="display:block; margin-left:auto; margin-right:auto"}|
-|:--:|
-|*note that stippling effects are introduced by lossy compression and can be ignored*|
+![SAI disparity](./images/SAI_demonstration.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+*note that stippling effects are introduced by lossy compression and can be ignored*
 
 
 Our LF video reconstruction method is the fastest and most temporally consistent to
